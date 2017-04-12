@@ -1,0 +1,21 @@
+﻿body {
+    position: center;
+}
+
+h1 {
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: magenta;
+}
+
+table {
+    color: aqua;
+}
+
+.results {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: red;
+}
